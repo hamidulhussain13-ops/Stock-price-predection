@@ -3,13 +3,14 @@
 # 📈 Stock Price Prediction
 
 A machine learning-based system that analyzes historical stock market data and predicts future price trends using predictive models and data visualization techniques.
-
+---
 ## 🚀 Features
-- Stock price prediction using ML
-- Data visualization
-- Historical data analysis
-- CI/CD pipeline with GitHub Actions
-
+- 📊 Stock price prediction using Machine Learning
+- 📈 Interactive data visualization
+- 📉 Historical stock data analysis
+- ⚙️ CI/CD pipeline using GitHub Actions
+- 🌐 Live deployment using Streamlit
+---
 ## 🛠️ Tech Stack
 - Python
 - Pandas
@@ -17,3 +18,12 @@ A machine learning-based system that analyzes historical stock market data and p
 - Matplotlib
 - Scikit-learn
 - Streamlit
+
+## 🌐 Live Demo
+👉 [Click here to view project](https://stock-price-predection-8gth9ogpxxscsmpnzh6hoa.streamlit.app/)
+
+## ⚠️ Disclaimer
+This project is for educational purposes only and does not provide financial or investment advice.
+---
+## 👨‍💻 Author
+- Hamidul Hussain
