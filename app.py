@@ -73,10 +73,10 @@ def generate_synthetic_data(n_samples=1000):
     
     # Calculate technical indicators
     # Simple Moving Average (5-day)
-    sma_5 = pd.Series(close_prices).rolling(window=5).mean().fillna(method='bfill').values
+    sma_5 = pd.Series(close_prices).rolling(window=5).mean()..bfill().values
     
     # Simple Moving Average (20-day)
-    sma_20 = pd.Series(close_prices).rolling(window=20).mean().fillna(method='bfill').values
+    sma_20 = pd.Series(close_prices).rolling(window=20).mean()..bfill().values
     
     # Volatility (standard deviation of returns over 10 days)
     volatility = pd.Series(returns).rolling(window=10).std().fillna(0.02).values
