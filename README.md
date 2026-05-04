@@ -22,6 +22,10 @@ A machine learning-based system that analyzes historical stock market data and p
 ## 🌐 Live Demo
 👉 [Click here to view project](https://stock-price-predection-8gth9ogpxxscsmpnzh6hoa.streamlit.app/)
 
+## 📸 Screenshot
+_Add screensh<img width="957" height="446" alt="image" src="https://github.com/user-attachments/assets/d436ac60-22d7-46ec-8a0e-518ee784d7b6" />
+ot of your dashboard here for better presentation
+
 ## ⚠️ Disclaimer
 This project is for educational purposes only and does not provide financial or investment advice.
 ---
